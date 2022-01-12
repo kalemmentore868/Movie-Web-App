@@ -1,0 +1,30 @@
+/* Promotion Section */
+
+#promotion {
+  height: 30vh;
+  text-align: center;
+  background: url("../img/promo-bg.jpg");
+  background-repeat: repeat;
+  box-shadow: inset 0 0 0 1000px rgba(179, 36, 36, 0.2);
+  color: white;
+  padding: 20px 0;
+  margin-bottom: 20px;
+}
+
+#promotion h2 {
+  font-size: 2rem;
+  margin: 20px 0;
+}
+
+#promotion p {
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+
+#promotion a {
+  border-radius: 50px;
+  background-color: black;
+  color: white;
+  font-size: 1.5rem;
+  padding: 5px 10px;
+}
